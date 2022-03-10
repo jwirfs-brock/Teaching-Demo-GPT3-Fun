@@ -2,7 +2,7 @@
 import openai
 
 # Change this to your personal API key
-openai.api_key = '<ENTERR-YOUR-API-KEY-HERE>'
+openai.api_key = '<ENTER-YOUR-API-KEY-HERE>'
 
 # Edit the text below to customize the input for GPT-3's text generator
 my_prompt = "Give me two animals that are cartoon characters."
